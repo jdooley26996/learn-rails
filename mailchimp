@@ -1,0 +1,5 @@
+export GMAIL_USERNAME=“jdooley26996@gmail.com" 
+export GMAIL_PASSWORD=“10000Aweek$” 
+export MAILCHIMP_API_KEY="7d98c4719ef2596347c4b855154a6096-us11" 
+export MAILCHIMP_LIST_ID="aa63f8c811" 
+export OWNER_EMAIL="jdooley26996@gmail.com"
